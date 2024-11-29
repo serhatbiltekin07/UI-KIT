@@ -1,0 +1,27 @@
+
+
+    Navbar      : Component
+    Footer      : Component
+    SeachBar    : Component
+    Filter      : Component
+    SortBy      : Component
+    ProductCard : Component
+    ProductList : Component
+    BackToTop (Yukarı Dön): Component
+Home            : Page
+ProductDetail   : Page
+AboutUs         : Page
+Contact         : Page
+Cart            : Page
+Checkout        : Page
+Wishlist        : Page
+UserProfile     : Page
+Blog            : Page
+FAQ             : Page
+RoomPreview (Oda Görünümü): Page
+Compare (Karşılaştırma) : Page
+DeliveryInfo (Teslimat Bilgisi) : Page
+
+Total:
+    13 Pages,
+    8 Components

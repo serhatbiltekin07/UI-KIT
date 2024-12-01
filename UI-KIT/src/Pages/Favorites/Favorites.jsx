@@ -1,12 +1,12 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const Cart = () => {
+const Favorites = () => {
   return (
     <div>
-      sepet sayfası
+      favoriler sayfası
     </div>
   )
 }
 
-export default Cart
+export default Favorites

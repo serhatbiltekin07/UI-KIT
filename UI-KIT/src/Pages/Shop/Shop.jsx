@@ -1,12 +1,12 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const Cart = () => {
+const Shop = () => {
   return (
     <div>
-      sepet sayfası
+      shop sayfası
     </div>
   )
 }
 
-export default Cart
+export default Shop

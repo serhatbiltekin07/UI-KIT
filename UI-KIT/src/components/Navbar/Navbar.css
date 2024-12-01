@@ -16,16 +16,22 @@
     margin: 0;
     cursor: pointer;
     transition: all .2s linear;
+    color: black;
+}
+.left h1{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+.left a{
     text-decoration: none;
 }
-.left:hover{
+.left:hover h1{
     color: #ffcc00;
+    text-decoration: underline;
 }
-.left{
-    
-} 
+
 .center{
-    margin: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,20 +39,35 @@
     text-decoration:dashed;
     transition: all .2s linear;
 }
-.center:hover{
-    color:#ffcc00 ;
-}
-.right{
-    color: red;
-    margin: 0;
+.center ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 70px;
+    list-style-type: none;
+}
+.center li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.center li a:hover{
+    color:#ffcc00 ;
 }
 .right ul{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
-    list-style-type: none;
+    color: red;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 30px;
+}
+.right li a{
+    text-decoration: none;
+    font-size: 23px;
+    color: black;
+    transition: color 0.2s ease-in-out;
+}
+.right li a:hover{
+    color: #ffcc00;
 }

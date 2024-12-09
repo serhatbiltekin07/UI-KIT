@@ -1,0 +1,39 @@
+.genres{
+    
+    height: 100%;
+    width: 100%;
+}
+.res1-img{
+    height: 53.063rem;
+    width: 100%;
+    background-position: center;
+}
+.img-list1 ul{
+    display: grid;
+    gap: 10px;
+    grid-template-areas: 
+    "big small1 small2"
+    "big small3 small4";
+    grid-template-columns: 2fr 1fr 1fr;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.img-list1 li {
+    margin-top: 153px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+.img-list1 li img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.big-image{
+     grid-area: big;
+
+}
+

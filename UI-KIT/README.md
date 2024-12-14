@@ -6,3 +6,14 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [+] react-router-dom ve bootstrap kurulum
+- [+] Navbar olusturulmasi
+- [+] sayfa yapisinin olusturulmasi
+- [] urunler kisminin oluşturulmasi
+- [] ana sayfada 10 ürün gösterilmesi
+- [] urun layout: yapisinin olusturulması -> kategoriler ve son 5 urunun linki
+- [] urunler tıklanınca detay sayfasının acılması
+- [] Login yapisin olusturulması(localStorage)
+- [] Eğer kullanıcı Login ise Logout olabilmesi (localStorage)
+- [] Eger kullanıcı Login ise Urunlleri favorilere Atabilmesi(localStorage)
+- [] Eger kullanıcı Login ise Favoriler sayfasına gidebilsin
